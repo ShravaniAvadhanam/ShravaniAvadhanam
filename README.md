@@ -1,10 +1,10 @@
-<table width="100%">
+<table width="100%" style="max-width: 100%; overflow-x: hidden; table-layout: fixed;">
   <tr>
     <!-- LEFT SIDEBAR -->
-    <td width="28%" valign="top">
+    <td width="28%" valign="top" style="max-width: 28%; overflow-x: hidden;">
 
       <div align="center">
-        <img src="https://placehold.co/320x320/png?text=Shravani" alt="Shravani Avatar" width="180" />
+        <img src="https://placehold.co/320x320/png?text=Shravani" alt="Shravani Avatar" width="180" style="max-width: 100%; height: auto;" />
       </div>
 
       <div align="center">
@@ -43,15 +43,15 @@
       <p>🌸 ✨ 💖 🤖 🌷 ⭐</p>
 
       <div align="center">
-        <img src="https://placehold.co/320x240/png?text=Cozy+Desk+Setup" alt="Cozy Desk" width="180" />
+        <img src="https://placehold.co/320x240/png?text=Cozy+Desk+Setup" alt="Cozy Desk" width="180" style="max-width: 100%; height: auto;" />
       </div>
 
     </td>
 
     <!-- MAIN CONTENT -->
-    <td width="72%" valign="top">
+    <td width="72%" valign="top" style="max-width: 72%; overflow-x: hidden;">
 
-      <img src="https://placehold.co/1200x360/png?text=Pink+AI+Designer+Banner" alt="Banner" width="100%" />
+      <img src="https://placehold.co/1200x360/png?text=Pink+AI+Designer+Banner" alt="Banner" width="100%" style="max-width: 100%; height: auto; display: block;" />
 
       <h1>Hey, I'm Shravani 👋</h1>
       <p><b>Product Designer building AI-native workflows & agentic experiences.</b></p>
@@ -64,7 +64,7 @@
       <hr/>
 
       <h2>About Me</h2>
-      <table width="100%">
+      <table width="100%" style="max-width: 100%;">
         <tr>
           <td width="70%" valign="top">
             <p>
@@ -78,7 +78,7 @@
             </p>
           </td>
           <td width="30%" align="center" valign="middle">
-            <img src="https://placehold.co/320x260/png?text=About+Me+Illustration" alt="About Me" width="160" />
+            <img src="https://placehold.co/320x260/png?text=About+Me+Illustration" alt="About Me" width="160" style="max-width: 100%; height: auto;" />
           </td>
         </tr>
       </table>
@@ -86,30 +86,30 @@
       <hr/>
 
       <h2>What I'm Building</h2>
-      <table width="100%">
+      <table width="100%" style="max-width: 100%;">
         <tr>
           <td width="50%" valign="top">
-            <img src="https://placehold.co/640x320/png?text=Prompt+Library+App" alt="Prompt Library" width="100%" />
+            <img src="https://placehold.co/640x320/png?text=Prompt+Library+App" alt="Prompt Library" width="100%" style="max-width: 100%; height: auto; display: block;" />
             <p><b>Prompt Library</b><br/>Organize and operationalize prompts.</p>
           </td>
           <td width="50%" valign="top">
-            <img src="https://placehold.co/640x320/png?text=Recipe+Gen" alt="Recipe Gen" width="100%" />
+            <img src="https://placehold.co/640x320/png?text=Recipe+Gen" alt="Recipe Gen" width="100%" style="max-width: 100%; height: auto; display: block;" />
             <p><b>Recipe Gen</b><br/>AI-powered recipe generation.</p>
           </td>
         </tr>
         <tr>
           <td width="50%" valign="top">
-            <img src="https://placehold.co/640x320/png?text=AI+Workflow+Experiments" alt="AI Workflow Experiments" width="100%" />
+            <img src="https://placehold.co/640x320/png?text=AI+Workflow+Experiments" alt="AI Workflow Experiments" width="100%" style="max-width: 100%; height: auto; display: block;" />
             <p><b>AI Workflow Experiments</b><br/>Agentic UX explorations.</p>
           </td>
           <td width="50%" valign="top">
-            <img src="https://placehold.co/640x320/png?text=Framer+Experiences" alt="Framer Experiences" width="100%" />
+            <img src="https://placehold.co/640x320/png?text=Framer+Experiences" alt="Framer Experiences" width="100%" style="max-width: 100%; height: auto; display: block;" />
             <p><b>Framer Experiences</b><br/>Interactive web experiences.</p>
           </td>
         </tr>
         <tr>
           <td width="50%" valign="top">
-            <img src="https://placehold.co/640x320/png?text=Agentic+UX" alt="Agentic UX" width="100%" />
+            <img src="https://placehold.co/640x320/png?text=Agentic+UX" alt="Agentic UX" width="100%" style="max-width: 100%; height: auto; display: block;" />
             <p><b>Agentic UX</b><br/>Human-AI collaboration design.</p>
           </td>
           <td width="50%" valign="top">
@@ -139,27 +139,27 @@
       <hr/>
 
       <h2>Featured Projects</h2>
-      <table width="100%">
+      <table width="100%" style="max-width: 100%;">
         <tr>
           <td width="50%" valign="top">
-            <img src="https://placehold.co/640x360/png?text=POSES" alt="POSES" width="100%" />
+            <img src="https://placehold.co/640x360/png?text=POSES" alt="POSES" width="100%" style="max-width: 100%; height: auto; display: block;" />
             <p><b>POSES</b><br/>AI workflow system for e-commerce merchants to generate, refine, preview, and publish product content.</p>
             <p><i>AI SaaS</i></p>
           </td>
           <td width="50%" valign="top">
-            <img src="https://placehold.co/640x360/png?text=SkillGig+LMS" alt="SkillGig LMS" width="100%" />
+            <img src="https://placehold.co/640x360/png?text=SkillGig+LMS" alt="SkillGig LMS" width="100%" style="max-width: 100%; height: auto; display: block;" />
             <p><b>SkillGig LMS</b><br/>Roadmap-based learning platform with structured learning journeys and role-based flows.</p>
             <p><i>SaaS / LMS</i></p>
           </td>
         </tr>
         <tr>
           <td width="50%" valign="top">
-            <img src="https://placehold.co/640x360/png?text=Recipe+Gen" alt="Recipe Gen" width="100%" />
+            <img src="https://placehold.co/640x360/png?text=Recipe+Gen" alt="Recipe Gen" width="100%" style="max-width: 100%; height: auto; display: block;" />
             <p><b>Recipe Gen</b><br/>AI-powered recipe generation with personalization and smart filtering.</p>
             <p><i>AI Product</i></p>
           </td>
           <td width="50%" valign="top">
-            <img src="https://placehold.co/640x360/png?text=Portfolio+Website" alt="Portfolio Website" width="100%" />
+            <img src="https://placehold.co/640x360/png?text=Portfolio+Website" alt="Portfolio Website" width="100%" style="max-width: 100%; height: auto; display: block;" />
             <p><b>Portfolio Website</b><br/>Personal portfolio showcasing experiments, case studies, and AI-native product thinking.</p>
             <p><i>Framer / UI</i></p>
           </td>
@@ -170,12 +170,12 @@
 
       <h2>GitHub Stats</h2>
       <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=ShravaniAvadhanam&show_icons=true&count_private=true&hide_border=true&title_color=ff4f9a&text_color=5a2a4a&icon_color=ff4f9a" width="49%" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniAvadhanam&layout=compact&hide_border=true&title_color=ff4f9a&text_color=5a2a4a" width="49%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ShravaniAvadhanam&show_icons=true&count_private=true&hide_border=true&title_color=ff4f9a&text_color=5a2a4a&icon_color=ff4f9a" width="49%" style="max-width: 49%; height: auto;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniAvadhanam&layout=compact&hide_border=true&title_color=ff4f9a&text_color=5a2a4a" width="49%" style="max-width: 49%; height: auto;" />
       </p>
 
       <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShravaniAvadhanam&hide_border=true&background=ffffff&ring=ff4f9a&fire=ff4f9a&currStreakNum=5a2a4a&sideNums=5a2a4a&currStreakLabel=ff4f9a&sideLabels=5a2a4a&dates=b07ca8" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShravaniAvadhanam&hide_border=true&background=ffffff&ring=ff4f9a&fire=ff4f9a&currStreakNum=5a2a4a&sideNums=5a2a4a&currStreakLabel=ff4f9a&sideLabels=5a2a4a&dates=b07ca8" width="100%" style="max-width: 100%; height: auto; display: block;" />
       </p>
 
       <hr/>
@@ -183,7 +183,7 @@
       <p align="center"><i>Design is not decoration. Clarity is a feature. Good workflows feel invisible.</i></p>
 
       <div align="center">
-        <img src="https://placehold.co/1200x220/png?text=Pink+Pixel+Garden+Footer" alt="Footer" width="100%" />
+        <img src="https://placehold.co/1200x220/png?text=Pink+Pixel+Garden+Footer" alt="Footer" width="100%" style="max-width: 100%; height: auto; display: block;" />
       </div>
 
     </td>
