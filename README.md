@@ -53,7 +53,7 @@
 
       <img src="https://placehold.co/1200x360/png?text=Pink+AI+Designer+Banner" alt="Banner" width="100%" />
 
-      <h1>Hey, I’m Shravani 👋</h1>
+      <h1>Hey, I'm Shravani 👋</h1>
       <p><b>Product Designer building AI-native workflows & agentic experiences.</b></p>
 
       <p>
@@ -85,7 +85,7 @@
 
       <hr/>
 
-      <h2>What I’m Building</h2>
+      <h2>What I'm Building</h2>
       <table width="100%">
         <tr>
           <td width="50%" valign="top">
